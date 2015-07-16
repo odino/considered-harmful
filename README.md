@@ -2,7 +2,7 @@
 
 A list of those "*X [considered harmful](https://en.wikipedia.org/wiki/Considered_harmful)*" posts.
 
-But hey, always consider [this](http://meyerweb.com/eric/comment/chech.html). And [this](http://blog.codinghorror.com/id-consider-that-harmful-too/).
+> But hey, always consider [this](http://meyerweb.com/eric/comment/chech.html). And [this](http://blog.codinghorror.com/id-consider-that-harmful-too/).
 
 * [Csh programming](http://www-uxsup.csx.cam.ac.uk/misc/csh.html)
 * [CSS regions](http://alistapart.com/blog/post/css-regions-considered-harmful)
@@ -18,3 +18,7 @@ But hey, always consider [this](http://meyerweb.com/eric/comment/chech.html). An
 * [--force](https://developer.atlassian.com/blog/2015/04/force-with-lease/) (git)
 
 More on [Google](https://www.google.ae/search?safe=off&q=%22considered+harmful%22&gws_rd=cr,ssl&ei=bqWnVfeiK8yvU4GBtLAL).
+
+## Contributing
+
+Just send a PR adding your suggestion to the README...anything is welcome!
