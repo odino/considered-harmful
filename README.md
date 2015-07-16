@@ -16,7 +16,11 @@ A list of those "*X [considered harmful](https://en.wikipedia.org/wiki/Considere
 * [--force](https://developer.atlassian.com/blog/2015/04/force-with-lease/) (git)
 
 More on [Google](https://www.google.ae/search?safe=off&q=%22considered+harmful%22&gws_rd=cr,ssl&ei=bqWnVfeiK8yvU4GBtLAL).
-But hey, always consider [this](http://meyerweb.com/eric/comment/chech.html). And [this](http://blog.codinghorror.com/id-consider-that-harmful-too/).
+
+> "Considered harmful" posts have been criticized in the past
+> for not being very constructive, so always consider [this](http://meyerweb.com/eric/comment/chech.html) and
+> [this](http://blog.codinghorror.com/id-consider-that-harmful-too/)
+> when reading.
 
 ## Contributing
 
