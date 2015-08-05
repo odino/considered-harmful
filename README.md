@@ -12,8 +12,9 @@ A list of those "*X [considered harmful](https://en.wikipedia.org/wiki/Considere
 * [jQuery](http://lea.verou.me/2015/04/jquery-considered-harmful/)
 * [recursive make](http://aegis.sourceforge.net/auug97.pdf)
 * [register globals](http://programmers.stackexchange.com/a/2345) (php)
-* [with statement](http://yuiblog.com/blog/2006/04/11/with-statement-considered-harmful/) (javascript)
 * [restful](https://dzone.com/articles/restful-considered-harmful)
+* [SSH agent forwarding](https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/)
+* [with statement](http://yuiblog.com/blog/2006/04/11/with-statement-considered-harmful/) (javascript)
 * [--force](https://developer.atlassian.com/blog/2015/04/force-with-lease/) (git)
 
 More on [Google](https://www.google.ae/search?safe=off&q=%22considered+harmful%22&gws_rd=cr,ssl&ei=bqWnVfeiK8yvU4GBtLAL).
