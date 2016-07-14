@@ -16,6 +16,7 @@ A list of those "*X [considered harmful](https://en.wikipedia.org/wiki/Considere
 * [SSH agent forwarding](https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/)
 * [with statement](http://yuiblog.com/blog/2006/04/11/with-statement-considered-harmful/) (javascript)
 * [--force](https://developer.atlassian.com/blog/2015/04/force-with-lease/) (git)
+* [Mixins](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html) (React)
 
 More on [Google](https://www.google.ae/search?safe=off&q=%22considered+harmful%22&gws_rd=cr,ssl&ei=bqWnVfeiK8yvU4GBtLAL).
 
