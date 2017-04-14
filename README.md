@@ -18,6 +18,7 @@ A list of those "*X [considered harmful](https://en.wikipedia.org/wiki/Considere
 * [--force](https://developer.atlassian.com/blog/2015/04/force-with-lease/) (git)
 * [Mixins](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html) (React)
 * [Electron](https://drewdevault.com/2016/11/24/Electron-considered-harmful.html)
+* [SELECT statements](http://250bpm.com/blog:72)
 
 More on [Google](https://www.google.ae/search?safe=off&q=%22considered+harmful%22&gws_rd=cr,ssl&ei=bqWnVfeiK8yvU4GBtLAL).
 
