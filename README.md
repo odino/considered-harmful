@@ -2,6 +2,7 @@
 
 A list of those "*X [considered harmful](https://en.wikipedia.org/wiki/Considered_harmful)*" posts.
 
+* [NPS](https://blog.usejournal.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430)
 * [Csh programming](http://www-uxsup.csx.cam.ac.uk/misc/csh.html)
 * [CSS regions](http://alistapart.com/blog/post/css-regions-considered-harmful)
 * [handlebars](https://bryce.fisher-fleig.org/blog/handlebars-considered-harmful/) (templating)
